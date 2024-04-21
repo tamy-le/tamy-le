@@ -5,9 +5,10 @@
 [![Leetcode Badge](https://img.shields.io/badge/-Tamy%20Le-white?style=flat&logo=LeetCode&logoColor=23FFA116)](https://leetcode.com/tamy-le/ "My Leet Code")
 ![](https://komarev.com/ghpvc/?username=tamy-le&abbreviated=true)
 
-<img src="./assets/memoji/tamy-celebrate.png" align="right" height="275" />
 
 ## <img src="./assets/gif/cat-pixel.gif" width="50"> A little about me <img src="./assets/gif/cat-pixel.gif" width="50">
+
+<img src="./assets/memoji/tamy-celebrate.png" align="right" height="275" />
 
 #### <img src="./assets/gif/crazy-cat-typing.gif" width="30"> Tamy Le | 💻 Full Stack Developer | 📍Tokyo, Japan 🇯🇵 | 🇻🇳 Vietnamese <img src="./assets/gif/crazy-cat-typing.gif" width="30"></h3>
 
