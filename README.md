@@ -1,4 +1,4 @@
-### <img src="./assets/gif/congrat.gif" width="30"> Hi there, Tamy Here – Welcome to My Code Space <img src="./assets/gif/congrat.gif" width="30">
+# <img src="./assets/gif/congrat.gif" width="30"> Hi there, Tamy Here – Welcome to My Code Space <img src="./assets/gif/congrat.gif" width="30">
 
 [![Gmail Badge](https://img.shields.io/badge/-tamy.le.cs@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tamy.le.cs@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Tamy%20Le-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tamy-le/ "Connect on LinkedIn")
@@ -7,7 +7,7 @@
 
 <img src="./assets/memoji/tamy-celebrate.png" align="right" height="275" />
 
-### <img src="./assets/gif/cat-pixel.gif" width="50"> A little about me <img src="./assets/gif/cat-pixel.gif" width="50">
+## <img src="./assets/gif/cat-pixel.gif" width="50"> A little about me <img src="./assets/gif/cat-pixel.gif" width="50">
 
 #### <img src="./assets/gif/crazy-cat-typing.gif" width="30"> Tamy Le | 💻 Full Stack Developer | 📍Tokyo, Japan 🇯🇵 | 🇻🇳 Vietnamese <img src="./assets/gif/crazy-cat-typing.gif" width="30"></h3>
 
@@ -15,7 +15,7 @@ With over four years in the tech industry, I am a versatile Full-Stack Developer
 
 ---
 
-### <img src="./assets/icon/3181_meow_sip.png" width="30px" alt="meow_sip"></a> Have a virtual sip?
+## <img src="./assets/icon/3181_meow_sip.png" width="30px" alt="meow_sip"></a> Have a virtual sip?
 
  I thrive on collaboration. If you're interested in my work, have feedback, or just want to chat, I’d love to hear from you. Please book a slot, and let’s explore how we can inspire each other! <img src="./assets/gif/3526-catyes.gif" width="20px"  alt="catyes"></a>
 
@@ -27,7 +27,7 @@ With over four years in the tech industry, I am a versatile Full-Stack Developer
 
 ---
 
-### <img src="./assets/gif/flying-cat.gif" width="50"> A little more about me  
+## <img src="./assets/gif/flying-cat.gif" width="50"> A little more
 
 ```javascript
 const tamy = {
@@ -55,7 +55,7 @@ const tamy = {
 
 ---
 
-### <img src="./assets/gif/sloth-stack.gif" width="50">Favorite Tech
+## <img src="./assets/gif/sloth-stack.gif" width="50">Favorite Tech
 
 > Tools, languages, and other things that I like to work with.
 
@@ -83,7 +83,7 @@ const tamy = {
 
 ---
 
-### <img src="./assets/gif/github-head.gif" width="30"> Github Coding Activity Stats
+## <img src="./assets/gif/github-head.gif" width="30"> Github Coding Activity Stats
 
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
@@ -115,5 +115,5 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 <img src="./assets/gif/arrow-down.gif" align="right"  width="60">
 
 <div align=center>
-<h2>Check Out What I Do In My Free Time</h2>
+ <h1>Check Out What I Do In My Free Time</h1>
 </div>
