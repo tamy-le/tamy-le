@@ -91,7 +91,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=tamy-le&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tamy's github stats" /> | <img align="center" src="https://streak-stats.demolab.com/?user=tamy-le&theme=buefy&border=61dafb&hide_border=true" alt="tamy-le" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamy-le&layout=compact&theme=buefy&hide_border=true" /> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tamy-le&theme=material-palenight&custom_title=Tamy's%20Activity%20Graph&hide_border=true)]
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tamy-le&theme=material-palenight&custom_title=Tamy's%20Activity%20Graph&hide_border=true)
 
 ---
 <img src="./assets/gif/friends-door.gif" align="left"  width="60">
